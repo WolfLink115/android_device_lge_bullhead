@@ -1,6 +1,6 @@
 # [WIP] OrangeFox Recovery Device tree for Nexus 5X [bullhead]
 
-Device Picture and Specs
+### Device Picture and Specs
 ![Nexus 5X](https://fdn2.gsmarena.com/vv/pics/lg/lg-nexus-5x-2.jpg "Nexus 5X")
 
 Basic   | Spec Sheet
