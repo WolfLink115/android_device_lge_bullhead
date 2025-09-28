@@ -32,9 +32,9 @@ OF_MAINTAINER := WolfLink115
 # Maximum permissible splash image size (in kilobytes); do *NOT* increase
 OF_SPLASH_MAX_SIZE := 64
 
-OF_ADVANCED_SECURITY := 1
-OF_DONT_PATCH_ENCRYPTED_DEVICE := 1
-OF_NO_RELOAD_AFTER_DECRYPTION := 1
+#OF_ADVANCED_SECURITY := 1
+#OF_DONT_PATCH_ENCRYPTED_DEVICE := 1
+#OF_NO_RELOAD_AFTER_DECRYPTION := 1
 
 # Recovery additional features
 OF_ENABLE_LPTOOLS := 0

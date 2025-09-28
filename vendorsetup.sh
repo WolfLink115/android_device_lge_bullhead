@@ -46,7 +46,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 	export FOX_DELETE_INITD_ADDON=1
 
 	# Store settings at /data/recovery instead of internal storage
-	export FOX_USE_DATA_RECOVERY_FOR_SETTINGS=1
+	#export FOX_USE_DATA_RECOVERY_FOR_SETTINGS=1
 
 	#OFR binary files
 	export FOX_REPLACE_BUSYBOX_PS=1
@@ -61,8 +61,8 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 	# Security (Disables MTP&ADB during password prompt)
 
 	# Debugging
-	##export FOX_RESET_SETTINGS=0
-	##export FOX_INSTALLER_DEBUG_MODE=1
+	#export FOX_RESET_SETTINGS=0
+	#export FOX_INSTALLER_DEBUG_MODE=1
 
 	# Other..
 	export TW_DEFAULT_LANGUAGE="en"
